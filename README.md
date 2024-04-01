@@ -1,6 +1,7 @@
 # ChatGPT-like Chatbot Project
 
 🚀 A fun thing to get hands-on! 🚀
+
 This is a repository for gpt-like clone using OpenAI API and Streamlit
 It was a project where I utilized Streamlit and OpenAI’s API (gpt-3.5-turbo), hosted on AWS EC2.
 
@@ -25,3 +26,5 @@ A little tip here, you would like to use "tmux" or "screen" when you are hosting
 And voilà! The ChatGPT-like chatbot is now live! [Link to the chatbot](http://54.157.52.40:8501)
 
 P.S. If you encounter any errors, it might be due to my dwindling $5 USD OpenAI credit. 😅
+
+![alt text](https://github.com/gabrielchen65/chatbot-gpt/image/chatbot.jpg?raw=true)
