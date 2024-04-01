@@ -27,4 +27,4 @@ And voilà! The ChatGPT-like chatbot is now live! [Link to the chatbot](http://5
 
 P.S. If you encounter any errors, it might be due to my dwindling $5 USD OpenAI credit. 😅
 
-![alt text](https://github.com/gabrielchen65/chatbot-gpt/image/chatbot.jpg?raw=true)
+![(https://github.com/gabrielchen65/chatbot-gpt/blob/main/image/chatbot.jpg?raw=true)
